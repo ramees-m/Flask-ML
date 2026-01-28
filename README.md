@@ -1,6 +1,6 @@
 This README file is generated based on the uploaded files, which indicate a **Drug Classification** project using a **Decision Tree** model deployed via a **Flask** application.
 
-````markdown
+
 # 💊 Drug Prescription Prediction System
 
 This repository contains a machine learning project that predicts the most appropriate drug for a patient based on their demographic and medical attributes. The classification model is built using a Decision Tree and is deployed using a simple Flask web application.
@@ -75,4 +75,4 @@ The model used is a **Decision Tree Classifier** trained on the `drug200 - drug2
     * **Cholesterol:** `{'LOW': 0, 'HIGH': 1}`
 * **Prediction Output:** The model predicts a numerical class which is then mapped back to the drug name:
     * `{0: "drugA", 1: "drugB", 2: "drugC", 3: "drugX", 4: "drugY"}`
-````
+
